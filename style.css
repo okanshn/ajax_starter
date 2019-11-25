@@ -6,3 +6,10 @@
 .table {
   color: green;
 }
+
+.login_form form
+{
+  display: flex;
+  flex-direction: column;
+
+}
